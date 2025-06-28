@@ -25,3 +25,8 @@ Currently diving deep into Android dev while juggling web, systems programming, 
 </p>
 
 <hr>
+<br />
+
+## ⚡️ Digital Footprints I’m Proud Of
+
+- [snaplet-cli](https://github.com/async-dreamer/snaplet-cli)
