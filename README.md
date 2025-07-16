@@ -29,4 +29,6 @@ Currently diving deep into Android dev while juggling web, systems programming, 
 
 ## ⚡️ Digital Footprints I’m Proud Of
 
-- [snaplet-cli](https://github.com/async-dreamer/snaplet-cli)
+- [snaplet-cli](https://github.com/async-dreamer/snaplet-cli) - (cli avif converter)
+- [snaplet-desktop](https://github.com/async-dreamer/snaplet-desktop) - (gui avif converter)
+- [pulseMon](https://github.com/async-dreamer/pulseMon) - (linux monitoring agent)
